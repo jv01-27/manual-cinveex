@@ -258,7 +258,7 @@ Este formulario aparece cuando el usuario selecciona un producto desde la vista 
 **Objetivo de esta pantalla:**
 Presentar de forma clara los datos del producto antes de realizar el traspaso al pasillo procesado, junto con la nueva ubicación asignada por el sistema.
 
-![Transicion a Procesado](https://github.com/jv01-27/manual-cinveex/blob/main/screenshots/np_trans.png)
+![Transicion a Procesado](https://github.com/jv01-27/manual-cinveex/blob/main/screenshots/np_trans.png?raw=true)
 
 ######Información mostrada
 
